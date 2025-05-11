@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://andhika-satriawan.github.io/)
 <h1 align="center">Hi 👋, I'm Andhika Satriawan</h1>
 <h3 align="center">Software engineer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5616AQGq7kvPY_ETRQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728377579786?e=1752710400&v=beta&t=VvIjCmxy8Y215DK1EkpIDjZsqWUTILBJvNPtvlJrFhs"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andhika-satriawan&label=Profile%20views&color=0e75b6&style=flat" alt="andhika-satriawan" /> </p>
 
