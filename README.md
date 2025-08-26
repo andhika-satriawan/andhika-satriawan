@@ -21,8 +21,10 @@ Saya selalu bersemangat untuk membangun solusi digital yang **efisien**, **scala
 ---
 
 ## 📊 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andhika-satriawan&show_icons=true&theme=radical&v=2)
-![GitHub Streak](https://streak-stats.demolab.com?user=andhika-satriawan&theme=radical&v=2)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andhika-satriawan&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=andhika-satriawan&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
 
 ---
 
